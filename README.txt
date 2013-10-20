@@ -5,3 +5,5 @@
 	ID = parsed['baseBuild']
 
 :)
+
+Please note that Hellbats are called HellionTank.
